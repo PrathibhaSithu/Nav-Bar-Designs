@@ -32,4 +32,12 @@ nav a span{
     height: 100%;
     z-index: -1;
     border-bottom: 2px solid #0ef;
+    border-radius: 15px;
+    transform: scale(0) translateY(50px);
+    transition: .5s;
+    opacity: 0;
+}
+nav a:hover span{
+    transform: scale(1) translateY(0);
+    opacity: 1;
 }
