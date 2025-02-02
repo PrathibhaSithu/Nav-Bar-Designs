@@ -36,4 +36,5 @@ nav span{
     left: 0;
     width: 95px;
     height: 100%;
+    background: linear-gradient(45deg, #4f1919, #ff3333);
 }
