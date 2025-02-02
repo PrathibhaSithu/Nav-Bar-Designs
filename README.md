@@ -8,6 +8,7 @@ Welcome to **Nav Bar Designs Collection**, a collection of **unique and stylish 
 ✔️ Pure **HTML & CSS** – No JavaScript needed!  
 ✔️ Different styles: **Classic, Underline Hover, Dropdown Menu**  
 
+# ⭐ If you like this project, don't forget to star the repository! ⭐
 
 ## 🖼️ Preview 
 
