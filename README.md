@@ -1,5 +1,7 @@
 # 🌐 Nav-Bar-Designs  
 
+# ⭐ If you like this project, don't forget to star the repository! ⭐
+
 Welcome to **Nav Bar Designs Collection**, a collection of **unique and stylish navigation bars** built using **only HTML and CSS**. These designs showcase different approaches to crafting modern, responsive, and visually appealing navigation menus for websites.
 
 ## 📌 Features  
@@ -8,7 +10,6 @@ Welcome to **Nav Bar Designs Collection**, a collection of **unique and stylish 
 ✔️ Pure **HTML & CSS** – No JavaScript needed!  
 ✔️ Different styles: **Classic, Underline Hover, Dropdown Menu**  
 
-# ⭐ If you like this project, don't forget to star the repository! ⭐
 
 ## 🖼️ Preview 
 
